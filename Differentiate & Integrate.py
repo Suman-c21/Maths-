@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 26 20:47:24 2018
 
-@author: Aabiskar
 Finds out integration and differivative of the given function
 """
 
